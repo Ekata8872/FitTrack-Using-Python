@@ -27,7 +27,7 @@ Welcome to the Health and Fitness Tracker App repository! This project is design
 1. Clone the repository:
 
 ```
-git clone https://github.com/adarshmishra26/FitTrack.git
+git clone https://github.com/Ekata8872/FitTrack.git
 ```
 
 2. Install dependencies:
